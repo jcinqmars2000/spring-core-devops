@@ -11,7 +11,6 @@ public class SpringCoreDevOpsApplication {
 
 		//this is a whitespace change test
 
-		//Change by JCM
-        //Change to Test github Trigger
+		//Change by JCM t test CI
 	}
 }

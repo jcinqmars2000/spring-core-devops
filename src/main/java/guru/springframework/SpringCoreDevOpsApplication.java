@@ -9,8 +9,10 @@ public class SpringCoreDevOpsApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringCoreDevOpsApplication.class, args);
 
-		//this is a whitespace change test
+		/*
+		this is a whitespace change test
+		Change by JCM test CI 12/30/2018
+		*/
 
-		//Change by JCM t test CI
 	}
 }
